@@ -1,4 +1,5 @@
 ## NuGet Version
+[![Build Status](https://travis-ci.org/wk-j/nuget-version.svg?branch=master)](https://travis-ci.org/wk-j/nuget-version)
 
 Installation
 
