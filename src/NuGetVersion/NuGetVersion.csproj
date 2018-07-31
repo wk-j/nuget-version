@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <LangVersion>7.2</LangVersion>
+    <PackageId>wk.NuGetVersion</PackageId>
+    <Version>0.1.0</Version>
+    <ToolCommandName>wk-nuget-version</ToolCommandName>
+    <PackAsTool>true</PackAsTool>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="NuGet.Versioning" Version="4.7.0" />
+  </ItemGroup>
+
+</Project>
